@@ -4,9 +4,9 @@ com/bridgelabz/datastructure/MyMapNode.java
  com.bridgelabz.datastructure.MyMapNode
 com/bridgelabz/datastructure/MyNode.java
  com.bridgelabz.datastructure.MyNode
-com/bridgelabz/datastructure/MyLinkedList.java
- com.bridgelabz.datastructure.MyLinkedList
 com/bridgelabz/datastructure/MyHashMap.java
  com.bridgelabz.datastructure.MyHashMap
+com/bridgelabz/datastructure/MyLinkedList.java
+ com.bridgelabz.datastructure.MyLinkedList
 com/bridgelabz/datastructure/MyLinkedHashMap.java
  com.bridgelabz.datastructure.MyLinkedHashMap

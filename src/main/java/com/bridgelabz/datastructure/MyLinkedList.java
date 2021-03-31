@@ -133,7 +133,19 @@ public class MyLinkedList<K>
             }
         }
     }
+    public INode<K> removeWordFromPhrase(INode<K> node) {
 
+        INode<K> removeNode = search(node.getKey());
+        if (removeNode != null) {
+            INode<K> tempNode = this.head;
+            while (tempNode.getNext() != removeNode) {
+                tempNode = tempNode.getNext();
+            }
+            tempNode.setNext(removeNode.getNext());
+            return removeNode;
+        } else
+            return null;
+    }
     @Override
     public String toString() {
         return "MyLinkedListNodes{" + head + "}";
