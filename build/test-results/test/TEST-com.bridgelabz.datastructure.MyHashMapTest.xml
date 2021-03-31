@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.datastructure.MyHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-31T15:30:21" hostname="DESKTOP-0QBG6NF" time="0.044">
-  <properties/>
-  <testcase name="givenSentenceWhenWordsAreAddedToListShouldReturnParanoidFrequency()" classname="com.bridgelabz.datastructure.MyHashMapTest" time="0.044"/>
-  <system-out><![CDATA[MyHashMapNodes{MyLinkedListNodes{ MyMapNode { K = paranoids V = 1 -> MyMapNode { K = are V = 2 -> MyMapNode { K = not V = 1 -> MyMapNode { K = paranoid V = 3 -> MyMapNode { K = because V = 2 -> MyMapNode { K = they V = 2 -> MyMapNode { K = but V = 1 -> MyMapNode { K = keep V = 1 -> MyMapNode { K = putting V = 1 -> MyMapNode { K = themselves V = 1 -> MyMapNode { K = deliberately V = 1 -> MyMapNode { K = into V = 1 -> MyMapNode { K = avoidable V = 1 -> MyMapNode { K = situations V = 1}}
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

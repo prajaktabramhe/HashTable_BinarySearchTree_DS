@@ -8,3 +8,5 @@ com/bridgelabz/datastructure/MyLinkedList.java
  com.bridgelabz.datastructure.MyLinkedList
 com/bridgelabz/datastructure/MyHashMap.java
  com.bridgelabz.datastructure.MyHashMap
+com/bridgelabz/datastructure/MyLinkedHashMap.java
+ com.bridgelabz.datastructure.MyLinkedHashMap

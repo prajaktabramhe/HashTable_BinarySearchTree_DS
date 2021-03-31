@@ -1,8 +1,12 @@
 package com.bridgelabz.datastructure;
 
+
 public class MyHashMap<K, V>
 {
+
     private final MyLinkedList myLinkedList;
+
+
 
     public MyHashMap()
     {
@@ -14,6 +18,7 @@ public class MyHashMap<K, V>
         MyMapNode<K, V> myMapNode = (MyMapNode<K, V>) this.myLinkedList.search(key);
         return (myMapNode == null) ? null : myMapNode.getValue();
     }
+
 
     public void add(K key, V value)
     {
