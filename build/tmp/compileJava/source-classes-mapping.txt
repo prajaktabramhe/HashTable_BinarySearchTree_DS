@@ -10,3 +10,7 @@ com/bridgelabz/datastructure/MyLinkedList.java
  com.bridgelabz.datastructure.MyLinkedList
 com/bridgelabz/datastructure/MyLinkedHashMap.java
  com.bridgelabz.datastructure.MyLinkedHashMap
+com/bridgelabz/datastructure/MyBinaryNode.java
+ com.bridgelabz.datastructure.MyBinaryNode
+com/bridgelabz/datastructure/MyBinaryTree.java
+ com.bridgelabz.datastructure.MyBinaryTree
